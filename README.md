@@ -79,62 +79,6 @@ SETUP:
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<p>
-  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-E11D48?style=for-the-badge&labelColor=0D1117" alt="Featured projects" />
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### StudForm API
-
-Backend for a Telegram Mini App used to create forms, collect responses and export structured data.
-
-`TypeScript` `Node.js` `REST API` `PostgreSQL` `Docker`
-
-<!-- [Open repository](https://github.com/YOUR_USERNAME/STUDFORM_API_REPOSITORY) -->
-
-</td>
-<td width="50%" valign="top">
-
-### Go REST API
-
-Backend service with CRUD operations, middleware, repository layer and structured error handling.
-
-`Go` `REST API` `PostgreSQL` `Docker`
-
-<!-- [Open repository](https://github.com/YOUR_USERNAME/GO_API_REPOSITORY) -->
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### University Services Backend
-
-Backend services and internal APIs for student-facing systems and administrative workflows.
-
-`TypeScript` `Node.js` `PostgreSQL` `Docker` `GitLab CI/CD`
-
-<!-- [Open repository](https://github.com/YOUR_USERNAME/UNIVERSITY_BACKEND_REPOSITORY) -->
-
-</td>
-<td width="50%" valign="top">
-
-### Go Algorithms
-
-Algorithms, data structures, LeetCode solutions and implementation experiments in Go.
-
-`Go` `Algorithms` `Data Structures`
-
-<!-- [Open repository](https://github.com/YOUR_USERNAME/GO_ALGORITHMS_REPOSITORY) -->
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
 
 <p>
   <img src="https://img.shields.io/badge/LEETCODE_STATS-E11D48?style=for-the-badge&labelColor=0D1117" alt="Leetcode stats" />
