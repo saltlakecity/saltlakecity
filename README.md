@@ -137,24 +137,8 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <p>
-  <img src="https://img.shields.io/badge/GITHUB_STATS-E11D48?style=for-the-badge&labelColor=0D1117" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/LEETCODE_STATS-E11D48?style=for-the-badge&labelColor=0D1117" alt="Leetcode stats" />
 </p>
-
-<div align="center">
-  <img
-    height="175"
-    src="./profile/stats.svg"
-    alt="GitHub statistics"
-  />
-  <!-- <img
-    height="175"
-    src="./profile/top-langs.svg"
-    alt="Most used languages"
-  /> -->
-</div>
-
-<br>
-
 <a href="https://leetcode.com/u/saltlakecity/">
   <img
     width="500"
@@ -162,6 +146,9 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
     alt="LeetCode statistics"
   />
 </a>
+<br>
+
+
 
 
 <img src="./assets/divider.svg" width="100%" alt="" />
