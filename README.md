@@ -18,8 +18,24 @@ SETUP:
   <img src="https://img.shields.io/badge/POSTGRESQL-E11D48?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL" />
 </div> -->
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <div align="center">
-  <sub>Backend developer focused on reliable APIs, databases, infrastructure and production systems.</sub>
+  <h2>Backend developer focused on reliable APIs, databases, infrastructure and production systems.</h2>
 </div>
 
 <br>
@@ -143,39 +159,7 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
 
 <br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<p>
-  <img src="https://img.shields.io/badge/CONTACTS-E11D48?style=for-the-badge&labelColor=0D1117" alt="Contacts" />
-</p>
-
-<div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-E11D48?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Design. Build. Deploy.</sub>
-</div>
