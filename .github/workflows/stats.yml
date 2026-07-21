@@ -1,0 +1,61 @@
+name: Update GitHub statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=${{ github.repository_owner }}
+            &show_icons=true
+            &include_all_commits=true
+            &hide_border=true
+            &bg_color=0D1117
+            &title_color=E11D48
+            &text_color=F0F6FC
+            &icon_color=E11D48
+            &ring_color=E11D48
+            &locale=en
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=${{ github.repository_owner }}
+            &layout=compact
+            &langs_count=8
+            &hide_border=true
+            &bg_color=0D1117
+            &title_color=E11D48
+            &text_color=F0F6FC
+            &icon_color=E11D48
+            &size_weight=0.5
+            &count_weight=0.5
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update GitHub statistics" || exit 0
+          git push

@@ -131,12 +131,12 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
 <div align="center">
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api?username=saltlakecity&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=F0F6FC&icon_color=E11D48&ring_color=E11D48&locale=en"
+    src="./profile/stats.svg"
     alt="GitHub statistics"
   />
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltlakecity&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=F0F6FC&icon_color=E11D48&size_weight=0.5&count_weight=0.5"
+    src="./profile/top-langs.svg"
     alt="Most used languages"
   />
 </div>
