@@ -5,18 +5,18 @@ SETUP:
 3. Replace repository placeholders in the Featured Projects section.
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Backend Developer" />
-</div>
+</div> -->
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/GOLANG-E11D48?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt="Golang" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-E11D48?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
   <img src="https://img.shields.io/badge/NODE.JS-E11D48?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" alt="Node.js" />
   <img src="https://img.shields.io/badge/POSTGRESQL-E11D48?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL" />
-</div>
+</div> -->
 
 <div align="center">
   <sub>Backend developer focused on reliable APIs, databases, infrastructure and production systems.</sub>
