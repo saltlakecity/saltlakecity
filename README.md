@@ -30,22 +30,6 @@ SETUP:
   <img src="https://img.shields.io/badge/ABOUT_ME-E11D48?style=for-the-badge&labelColor=0D1117" alt="About me" />
 </p>
 
-```go
-type Developer struct {
-    Backend        []string
-    Frontend       []string
-    Infrastructure []string
-    Focus          []string
-}
-
-me := Developer{
-    Backend:        []string{"Go", "REST API", "PostgreSQL"},
-    Frontend:       []string{"Vue 3", "Nuxt", "TypeScript"},
-    Infrastructure: []string{"Docker", "Nginx", "GitLab CI/CD"},
-    Focus:          []string{"Backend architecture", "Algorithms", "Production systems"},
-}
-```
-
 - Building university digital services and Telegram Mini Apps.
 - Developing backend services, REST APIs and database-backed applications.
 - Improving Go, algorithms, system design and production engineering.
