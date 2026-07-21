@@ -81,7 +81,7 @@ Backend for a Telegram Mini App used to create forms, collect responses and expo
 
 `TypeScript` `Node.js` `REST API` `PostgreSQL` `Docker`
 
-[Open repository](https://github.com/YOUR_USERNAME/STUDFORM_API_REPOSITORY)
+<!-- [Open repository](https://github.com/YOUR_USERNAME/STUDFORM_API_REPOSITORY) -->
 
 </td>
 <td width="50%" valign="top">
@@ -92,7 +92,7 @@ Backend service with CRUD operations, middleware, repository layer and structure
 
 `Go` `REST API` `PostgreSQL` `Docker`
 
-[Open repository](https://github.com/YOUR_USERNAME/GO_API_REPOSITORY)
+<!-- [Open repository](https://github.com/YOUR_USERNAME/GO_API_REPOSITORY) -->
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ Backend services and internal APIs for student-facing systems and administrative
 
 `TypeScript` `Node.js` `PostgreSQL` `Docker` `GitLab CI/CD`
 
-[Open repository](https://github.com/YOUR_USERNAME/UNIVERSITY_BACKEND_REPOSITORY)
+<!-- [Open repository](https://github.com/YOUR_USERNAME/UNIVERSITY_BACKEND_REPOSITORY) -->
 
 </td>
 <td width="50%" valign="top">
@@ -116,7 +116,7 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
 
 `Go` `Algorithms` `Data Structures`
 
-[Open repository](https://github.com/YOUR_USERNAME/GO_ALGORITHMS_REPOSITORY)
+<!-- [Open repository](https://github.com/YOUR_USERNAME/GO_ALGORITHMS_REPOSITORY) -->
 
 </td>
 </tr>
