@@ -158,7 +158,7 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
 <a href="https://leetcode.com/u/saltlakecity/">
   <img
     width="500"
-    src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?colors=0D1117,0D1117,F0F6FC,A1A1AA,E11D48,FB7185,BE123C,881337&border=0&radius=8&font=JetBrains_Mono&animation=true"
+    src="https://leetcard.jacoblin.cool/saltlakecity?colors=0D1117,0D1117,F0F6FC,A1A1AA,E11D48,FB7185,BE123C,881337&border=0&radius=8&font=JetBrains_Mono&animation=true"
     alt="LeetCode statistics"
   />
 </a>
