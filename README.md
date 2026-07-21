@@ -146,11 +146,11 @@ Algorithms, data structures, LeetCode solutions and implementation experiments i
     src="./profile/stats.svg"
     alt="GitHub statistics"
   />
-  <img
+  <!-- <img
     height="175"
     src="./profile/top-langs.svg"
     alt="Most used languages"
-  />
+  /> -->
 </div>
 
 <br>
