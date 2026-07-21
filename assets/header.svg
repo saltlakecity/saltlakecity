@@ -37,33 +37,33 @@
   <path d="M760 238H1105" stroke="url(#red)" stroke-width="4" stroke-linecap="round"/>
 
   <g filter="url(#glow)">
-    <text x="600" y="135"
+    <text x="600" y="145"
       text-anchor="middle"
       fill="#F8FAFC"
       font-family="Segoe UI, Arial, sans-serif"
-      font-size="56"
+      font-size="66"
       font-weight="800"
-      letter-spacing="2">
-      BACKEND / FRONTEND
+      letter-spacing="4">
+      BACKEND
     </text>
-    <text x="600" y="196"
+    <text x="600" y="207"
       text-anchor="middle"
       fill="url(#red)"
       font-family="Consolas, Menlo, monospace"
-      font-size="34"
+      font-size="38"
       font-weight="700"
-      letter-spacing="8">
+      letter-spacing="9">
       DEVELOPER
     </text>
   </g>
 
-  <text x="600" y="243"
+  <text x="600" y="253"
     text-anchor="middle"
     fill="#A1A1AA"
     font-family="Consolas, Menlo, monospace"
-    font-size="20"
-    letter-spacing="3">
-    GO • VUE 3 • NUXT • TYPESCRIPT • POSTGRESQL
+    font-size="19"
+    letter-spacing="2.8">
+    GO • TYPESCRIPT • NODE.JS • POSTGRESQL • DOCKER
   </text>
 
   <rect x="1" y="1" width="1198" height="298" rx="21" stroke="#E11D48" stroke-opacity="0.35" stroke-width="2"/>

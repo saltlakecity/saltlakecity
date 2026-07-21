@@ -2,24 +2,24 @@
 SETUP:
 1. Replace every YOUR_USERNAME with your GitHub username.
 2. Replace YOUR_TELEGRAM and YOUR_EMAIL.
-3. Replace repository placeholders in the Projects section.
+3. Replace repository placeholders in the Featured Projects section.
 -->
 
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Backend / Frontend Developer" />
+  <img src="./assets/header.svg" width="100%" alt="Backend Developer" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GO-E11D48?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt="Go" />
-  <img src="https://img.shields.io/badge/VUE_3-E11D48?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/NUXT-E11D48?style=for-the-badge&logo=nuxt&logoColor=white&labelColor=0D1117" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/GOLANG-E11D48?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt="Golang" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-E11D48?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NODE.JS-E11D48?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" alt="Node.js" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-E11D48?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL" />
 </div>
 
 <div align="center">
-  <sub>Backend / Frontend developer focused on Go, Vue, Nuxt and production infrastructure.</sub>
+  <sub>Backend developer focused on reliable APIs, databases, infrastructure and production systems.</sub>
 </div>
 
 <br>
@@ -30,9 +30,28 @@ SETUP:
   <img src="https://img.shields.io/badge/ABOUT_ME-E11D48?style=for-the-badge&labelColor=0D1117" alt="About me" />
 </p>
 
-- Building university digital services and Telegram Mini Apps.
-- Developing backend services, REST APIs and database-backed applications.
-- Improving Go, algorithms, system design and production engineering.
+```go
+type BackendDeveloper struct {
+    Languages      []string
+    Backend        []string
+    Databases      []string
+    Infrastructure []string
+    Focus          []string
+}
+
+me := BackendDeveloper{
+    Languages:      []string{"Go", "TypeScript"},
+    Backend:        []string{"Node.js", "Express", "REST API", "HTTP"},
+    Databases:      []string{"PostgreSQL", "SQL"},
+    Infrastructure: []string{"Docker", "GitLab CI/CD", "Linux", "Nginx", "Traefik"},
+    Focus:          []string{"Backend architecture", "Concurrency", "Algorithms", "Production systems"},
+}
+```
+
+- Building backend services and APIs for university digital products.
+- Designing database-backed applications and internal administrative systems.
+- Working with containerized deployments, reverse proxies and CI/CD pipelines.
+- Improving Go, algorithms, backend architecture and production engineering.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -43,20 +62,24 @@ SETUP:
 <div align="center">
 
   <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=E11D48" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E11D48" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E11D48" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=E11D48" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-0D1117?style=for-the-badge&logo=nuxt&logoColor=E11D48" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E11D48" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=E11D48" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=E11D48" alt="REST API" />
 
   <br>
 
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E11D48" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E11D48" alt="SQL" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E11D48" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=E11D48" alt="Nginx" />
-  <img src="https://img.shields.io/badge/GitLab_CI-0D1117?style=for-the-badge&logo=gitlab&logoColor=E11D48" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-0D1117?style=for-the-badge&logo=gitlab&logoColor=E11D48" alt="GitLab CI/CD" />
+
+  <br>
+
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E11D48" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E11D48" alt="Git" />
+  <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=E11D48" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Traefik-0D1117?style=for-the-badge&logo=traefikproxy&logoColor=E11D48" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Docker_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=E11D48" alt="Docker Compose" />
 
 </div>
 
@@ -70,20 +93,20 @@ SETUP:
 <tr>
 <td width="50%" valign="top">
 
-### StudForm
+### StudForm API
 
-Telegram Mini App for forms, surveys and response collection.
+Backend for a Telegram Mini App used to create forms, collect responses and export structured data.
 
-`Nuxt` `TypeScript` `Node.js` `PostgreSQL` `Docker`
+`TypeScript` `Node.js` `REST API` `PostgreSQL` `Docker`
 
-[Open repository](https://github.com/YOUR_USERNAME/STUDFORM_REPOSITORY)
+[Open repository](https://github.com/YOUR_USERNAME/STUDFORM_API_REPOSITORY)
 
 </td>
 <td width="50%" valign="top">
 
 ### Go REST API
 
-Backend service with CRUD, middleware, repository layer and database integration.
+Backend service with CRUD operations, middleware, repository layer and structured error handling.
 
 `Go` `REST API` `PostgreSQL` `Docker`
 
@@ -94,20 +117,20 @@ Backend service with CRUD, middleware, repository layer and database integration
 <tr>
 <td width="50%" valign="top">
 
-### University Digital Services
+### University Services Backend
 
-Student-facing web services and internal administrative tools.
+Backend services and internal APIs for student-facing systems and administrative workflows.
 
-`Vue 3` `Nuxt` `TypeScript` `PostgreSQL`
+`TypeScript` `Node.js` `PostgreSQL` `Docker` `GitLab CI/CD`
 
-[Open repository](https://github.com/YOUR_USERNAME/UNIVERSITY_PROJECT_REPOSITORY)
+[Open repository](https://github.com/YOUR_USERNAME/UNIVERSITY_BACKEND_REPOSITORY)
 
 </td>
 <td width="50%" valign="top">
 
 ### Go Algorithms
 
-Data structures, LeetCode practice and algorithm implementations in Go.
+Algorithms, data structures, LeetCode solutions and implementation experiments in Go.
 
 `Go` `Algorithms` `Data Structures`
 
@@ -172,5 +195,5 @@ Data structures, LeetCode practice and algorithm implementations in Go.
 <br>
 
 <div align="center">
-  <sub>Code. Ship. Improve.</sub>
+  <sub>Design. Build. Deploy.</sub>
 </div>
