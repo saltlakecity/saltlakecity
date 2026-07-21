@@ -30,24 +30,6 @@ SETUP:
   <img src="https://img.shields.io/badge/ABOUT_ME-E11D48?style=for-the-badge&labelColor=0D1117" alt="About me" />
 </p>
 
-```go
-type BackendDeveloper struct {
-    Languages      []string
-    Backend        []string
-    Databases      []string
-    Infrastructure []string
-    Focus          []string
-}
-
-me := BackendDeveloper{
-    Languages:      []string{"Go", "TypeScript"},
-    Backend:        []string{"Node.js", "Express", "REST API", "HTTP"},
-    Databases:      []string{"PostgreSQL", "SQL"},
-    Infrastructure: []string{"Docker", "GitLab CI/CD", "Linux", "Nginx", "Traefik"},
-    Focus:          []string{"Backend architecture", "Concurrency", "Algorithms", "Production systems"},
-}
-```
-
 - Building backend services and APIs for university digital products.
 - Designing database-backed applications and internal administrative systems.
 - Working with containerized deployments, reverse proxies and CI/CD pipelines.
