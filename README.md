@@ -34,10 +34,6 @@ SETUP:
   />
 </picture>
 
-<div align="center">
-  <h2>Backend developer focused on reliable APIs, databases, infrastructure and production systems.</h2>
-</div>
-
 <br>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
