@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./assets/badapple.gif" width="100%" alt="Pixel animation" />
+<img src="./assets/badapple.gif" alt="Pixel animation" />
 
 <br>
 
