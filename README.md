@@ -36,6 +36,12 @@ SETUP:
 
 <br>
 
+<p align="center">
+  <img src="./assets/badapple.gif" alt="Pixel animation">
+</p>
+
+<br>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <p>
