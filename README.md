@@ -18,7 +18,7 @@ SETUP:
   <img src="https://img.shields.io/badge/POSTGRESQL-E11D48?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL" />
 </div> -->
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake-dark.svg"
@@ -32,7 +32,7 @@ SETUP:
     alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
 
 <br>
 
