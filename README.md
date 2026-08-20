@@ -2,7 +2,7 @@
 
 <code>saltlakecity@github:~$ ./profile</code>
 
-<br><br>
+<br>
 
 <img src="./assets/badapple.gif" alt="Pixel animation" />
 
