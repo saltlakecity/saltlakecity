@@ -1,32 +1,3 @@
-
-<div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Backend Developer" />
-</div>
-
-<br>
-
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/GOLANG-E11D48?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt="Golang" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-E11D48?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NODE.JS-E11D48?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" alt="Node.js" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-E11D48?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL" />
-</div> -->
-
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
-  />
-</picture> -->
 <img src="./assets/divider.svg" width="100%" alt="" />
 <br>
 
