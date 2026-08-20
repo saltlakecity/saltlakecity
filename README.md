@@ -1,13 +1,7 @@
-<!--
-SETUP:
-1. Replace every YOUR_USERNAME with your GitHub username.
-2. Replace YOUR_TELEGRAM and YOUR_EMAIL.
-3. Replace repository placeholders in the Featured Projects section.
--->
 
-<!-- <div align="center">
+<div align="center">
   <img src="./assets/header.svg" width="100%" alt="Backend Developer" />
-</div> -->
+</div>
 
 <br>
 
@@ -33,7 +27,7 @@ SETUP:
     src="https://raw.githubusercontent.com/saltlakecity/saltlakecity/output/github-contribution-grid-snake.svg"
   />
 </picture> -->
-
+<img src="./assets/divider.svg" width="100%" alt="" />
 <br>
 
 <p align="center">
