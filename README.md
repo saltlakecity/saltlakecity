@@ -1,70 +1,74 @@
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br>
-
-<p align="center">
-  <img src="./assets/badapple.gif" alt="Pixel animation">
-</p>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p>
-  <img src="https://img.shields.io/badge/ABOUT_ME-E11D48?style=for-the-badge&labelColor=0D1117" alt="About me" />
-</p>
-
-- Building backend services and APIs for university digital products.
-- Designing database-backed applications and internal administrative systems.
-- Working with containerized deployments, reverse proxies and CI/CD pipelines.
-- Improving Go, algorithms, backend architecture and production engineering.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p>
-  <img src="https://img.shields.io/badge/TECH_STACK-E11D48?style=for-the-badge&labelColor=0D1117" alt="Tech stack" />
-</p>
-
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=E11D48" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E11D48" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E11D48" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=E11D48" alt="Express" />
-  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=E11D48" alt="REST API" />
+<code>saltlakecity@github:~$ ./profile</code>
 
-  <br>
+<br><br>
 
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E11D48" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E11D48" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E11D48" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-0D1117?style=for-the-badge&logo=gitlab&logoColor=E11D48" alt="GitLab CI/CD" />
+<img src="./assets/badapple.gif" width="100%" alt="Pixel animation" />
 
-  <br>
+<br>
 
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E11D48" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=E11D48" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Traefik-0D1117?style=for-the-badge&logo=traefikproxy&logoColor=E11D48" alt="Traefik" />
-  <img src="https://img.shields.io/badge/Docker_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=E11D48" alt="Docker Compose" />
+<a href="https://github.com/saltlakecity/go-pixelstream">
+  <img
+    src="https://img.shields.io/badge/rendered_with-go--pixelstream-58A6FF?style=flat-square&logo=go&logoColor=FFFFFF&labelColor=161B22"
+    alt="Rendered with go-pixelstream"
+  />
+</a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<br>
 
+### `~/tech-stack`
 
-<p>
-  <img src="https://img.shields.io/badge/LEETCODE_STATS-E11D48?style=for-the-badge&labelColor=0D1117" alt="Leetcode stats" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=58A6FF" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=58A6FF" alt="Express" />
+<img src="https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="REST API" />
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="SQL" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Docker" />
+<img src="https://img.shields.io/badge/GitLab_CI%2FCD-161B22?style=for-the-badge&logo=gitlab&logoColor=58A6FF" alt="GitLab CI/CD" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=58A6FF" alt="Linux" />
+<img src="https://img.shields.io/badge/Nginx-161B22?style=for-the-badge&logo=nginx&logoColor=58A6FF" alt="Nginx" />
+<img src="https://img.shields.io/badge/Traefik-161B22?style=for-the-badge&logo=traefikproxy&logoColor=58A6FF" alt="Traefik" />
+<img src="https://img.shields.io/badge/Docker_Compose-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Docker Compose" />
+
+</div>
+
+<br>
+
+### `~/leetcode`
+
+<div align="center">
+
 <a href="https://leetcode.com/u/saltlakecity/">
   <img
-    width="500"
-    src="https://leetcard.jacoblin.cool/saltlakecity?colors=0D1117,0D1117,F0F6FC,A1A1AA,E11D48,FB7185,BE123C,881337&border=0&radius=8&font=JetBrains_Mono&animation=true"
+    width="520"
+    src="https://leetcard.jacoblin.cool/saltlakecity?colors=0D1117,0D1117,C9D1D9,8B949E,58A6FF,79C0FF,1F6FEB,1158C7&border=0&radius=10&font=JetBrains_Mono&animation=true"
     alt="LeetCode statistics"
   />
 </a>
+
+</div>
+
 <br>
 
+<!--
+### `~/about`
 
+Reserved for future profile description.
+-->
 
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
+<div align="center">
+  <sub><code>EOF</code></sub>
+</div>
